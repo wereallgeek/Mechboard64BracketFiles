@@ -2,6 +2,8 @@
 Files to assist in making the open-hardware metal bracket for the Mechboard64
 
 ## What is Mechboard64?
+Taken from breadbox64.com, the author of Mechboard64. ([link](https://www.breadbox64.com/blog/diy-mechboard64/))
+
 The MechBoard64 is a drop-in replacement mechanical keyboard for your original Commodore 64 home computer. It will work in concordance with all the different versions of motherboards available, including the new motherboards (C64 Reloaded MK1+2 and Ultimate64). The MechBoard64 is based on quality microswitches, a sturdy aluminum bracket, a printed circuit board (PCB) and a multicolored ribbon cable for connecting the keyboard to the C64 hardware. The MechBoard64 also has a small electrical circuit that will add the functionality of the Shift Lock key but without the need for a latching microswitch like the Cherry Locking switch. Whenever the Shift Lock key is pressed, a bright LED will light up underneath the keycap to indicate its current state (on or off).
 
 Description on what parts are needed to complete the MechBoard64 build can be found here: ([link](https://www.breadbox64.com/blog/diy-mechboard64/))
