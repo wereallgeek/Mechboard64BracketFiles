@@ -24,7 +24,7 @@ Based on the MtnBuffalo bracket files, we can get so far.
 Most of the files are directly taken from v.1.07 from breadbox64. Thanks MtnBuffalo.
 
 ## faceplate
-However, precise measurements of the key switch holes on the front plate can be problematic. The solution is to propose IndogouFox's file that has a 3D rendition of same faceplate. They needed it in .STP so we converted it to a step file, also available here.
+However, precise measurements of the key switch holes on the front plate can be problematic. The solution is to propose IndogouFox's file that has a 3D rendition of same faceplate. They needed it in .STP so we converted it to a step file using an online converter.
 
 ## Mounting area
 Another area of contention is the mounting holes. Not wanting approximations they demanded something more precise than the .AI file. I came up with measurements and made an updated technical drawing specifying hole positionning and measurements.

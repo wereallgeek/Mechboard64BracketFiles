@@ -1,0 +1,8 @@
+UPDATE
+
+Revision 1.07 (29-03-2021)
+Added two extra mounting holes to the top of the keyboard bracket. This resembles the original C64
+keyboard in regards to number of holes. 
+The extra holes will suit non-orignal keyboard mounts, e.g. 3D printed mounts for the Ultimate 64.
+
+(c) MtnBuffalo 2021
